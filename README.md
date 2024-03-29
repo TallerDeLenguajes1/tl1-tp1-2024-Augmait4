@@ -19,4 +19,4 @@ Configuraria el archivo .gitignore dependiendo del trabajo a realizar y el entor
 El resultado es el mismo ya que el puntero lo que hace es señalar la direccion de memoria de la Variable y guardarla en su memoria, por lo tanto si nosotros mostramos el contenido de la direccion de memoria de la variable y la comparamos con lo guardado en el puntero obtendremos el mismo resultado.
 ### ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué?
 En el Punto 4 se obtiene la direccion de memoria reservada por el puntero que es totalmente distinta a la direccion de memoria reservada por la variable y a lo que apunta el puntero.
-Esto se debe a que ambas ocupan una porcion de la memoria distinta. 
+Esto se debe a que ambas ocupan una porcion de la memoria distinta
